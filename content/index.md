@@ -27,3 +27,7 @@ Wenn ihr wissen wollt was bisher geschah, dann schaut doch einmal hier entlang:
 
 >[!info] Akt 1 - Willkommen in Grimmhaven
 >![[Akt 1 - Willkommen in Grimmhaven#Zusammenfassung]]
+
+## An Unlikely Pair
+
+A wonderful story about a Dragon and an Angel that get up to all kinds of mischief. But alas, no time to write, so this will come at some later stage...

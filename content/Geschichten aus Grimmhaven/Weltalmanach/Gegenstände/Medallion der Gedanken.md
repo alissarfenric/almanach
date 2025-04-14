@@ -1,0 +1,1 @@
+![[Medallion der Gedanken.png|400]]
