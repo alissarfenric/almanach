@@ -9,4 +9,4 @@ tags:
 
 # Kirche der Heiligen Holle
 
-Eine wahrhaft flauschige Religion die der Heiligen Frau Holle huldigt.
+Eine wahrhaft flauschige Religion die der Heiligen Frau Holle huldigt. Das Hauptquartier der Kirche ist die [[Schneeflockenkapelle]] in [[Goldfurt]].

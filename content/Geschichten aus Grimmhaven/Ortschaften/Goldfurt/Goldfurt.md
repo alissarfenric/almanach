@@ -1,7 +1,7 @@
 ---
 title: Goldfurt
 type: info
-draft: true
+draft: false
 world: Grimmhaven
 date: 14-04-2025
 tags:

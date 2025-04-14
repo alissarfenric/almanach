@@ -22,3 +22,8 @@ In these here pages you will find my ongoing efforts at chronicling and recordin
 ## Geschichten aus Grimmhaven
 
 Willkommen in [[Grimmhaven]], einer magischen Welt voller Märchen und Erzählungen die man sich so gar nicht ausdenken kann. 
+
+Wenn ihr wissen wollt was bisher geschah, dann schaut doch einmal hier entlang:
+
+>[!info] Akt 1 - Willkommen in Grimmhaven
+>![[Akt 1 - Willkommen in Grimmhaven#Zusammenfassung]]
