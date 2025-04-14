@@ -1,0 +1,26 @@
+---
+title: Flöte Zerbrochener Träume
+type: info
+draft: false
+world: Grimmhaven
+date:
+  "{ date }": 
+tags:
+---
+
+Diese Zauberflöte ist ein exzellentes Beispiel hochwertigstem Wichtelhandwerks und ist anderen Blasinstrument weit überlegen. Wenn ein Barde sich auf dieses Instrument einstimmt, kann er es also Zauberfokus verwenden. Weiterhin hat der Barde Vorteil für alle Bezauberunged (charm spells) die mit der Flöte gewirkt werden.
+
+Die unnahbare Macht dieser Flöte hat jedoch eine Kehrseite. Wenn es auf eine Kreatur eingestimmt ist, wird diese taub, sobald sich das Instrument weiter als 3m von dieser Kreatur befindet.
+
+Während eine Kreatur auf dieses Instrument eingestimmt ist kann sie die folgenden Zaubersprüche ein mal pro Tag verwenden ohne einen Zauberplatz zu verwenden:
+
+- Mit Tieren Sprechen (Speak with Animals)
+- Unsichtbarkeit (Invisibility)
+- Schweben (Levitate)
+- Verstricken (Entangle)
+- Feenfeuer (Faerie Fire)
+
+### Gegenstandskarte
+
+![[Floete_Zerbrochener_Traeume.jpg|380]]
+
