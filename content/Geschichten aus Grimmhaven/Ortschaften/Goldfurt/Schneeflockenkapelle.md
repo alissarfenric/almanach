@@ -3,15 +3,14 @@ title: Schneeflockenkapelle
 type: info
 draft: false
 world: Grimmhaven
-date: 14-04-2025
+date: 2025-04-20
 tags:
 ---
 # Die Schneeflockenkappelle
 
 Dei Schneeflockenkapelle ist das "Hauptquartier" der [[Kirche der Heiligen Holle]] . Der oberste Kaplan ist Schneepriester [[Crispus Frost]].
 
-> [!info]
-> Im Inneren empfängt die Besucher ein strahlend weißer Raum, der von magischen Lichtern erhellt wird, die wie Schneeflocken von der Decke herab schweben. Statt klassischer Kirchenbänke gibt es samtige Sitzgelegenheiten in Form von Kissen, die sich an Schneehaufen anlehnen. Ein zentraler Altar aus gläsernem Eis schimmert in Regenbogenfarben, wenn das Licht darauf fällt. Ein Highlight ist die Decke des Tempels: Sie ist mit einem Illusionszauber belegt, der das Gefühl gibt, unter einem weiten, sternenklaren Nachthimmel zu stehen, während Schneeflocken leise herabgleiten.
+Im Inneren empfängt die Besucher ein strahlend weißer Raum, der von magischen Lichtern erhellt wird, die wie Schneeflocken von der Decke herab schweben. Statt klassischer Kirchenbänke gibt es samtige Sitzgelegenheiten in Form von Kissen, die sich an Schneehaufen anlehnen. Ein zentraler Altar aus gläsernem Eis schimmert in Regenbogenfarben, wenn das Licht darauf fällt. Ein Highlight ist die Decke des Tempels: Sie ist mit einem Illusionszauber belegt, der das Gefühl gibt, unter einem weiten, sternenklaren Nachthimmel zu stehen, während Schneeflocken leise herabgleiten.
 
 ### Der Scheesegen
 

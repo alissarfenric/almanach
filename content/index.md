@@ -3,7 +3,7 @@ title: Alissars Alamanach
 type: info
 draft: false
 world: Alissar
-date: 13-04-2025
+date: 2025-04-20
 tags:
 ---
 # Alissars Almanach
@@ -25,8 +25,12 @@ Willkommen in [[Grimmhaven]], einer magischen Welt voller Märchen und Erzählun
 
 Wenn ihr wissen wollt was bisher geschah, dann schaut doch einmal hier entlang:
 
->[!info] Akt 1 - Willkommen in Grimmhaven
+>[!info]+ Akt 1 - Willkommen in Grimmhaven
 >![[Akt 1 - Willkommen in Grimmhaven#Zusammenfassung]]
+
+## Astral Shenanigans
+
+A curious story that is merely fledging and may yet expand to the far realms of the known multiverse. But alas time is curious concept, one of which one never possesses sufficiently enough to write it all down...
 
 ## An Unlikely Pair
 

@@ -3,7 +3,7 @@ title: Akt 1 - Willkommen in Grimmhaven
 type: journal
 draft: false
 world: Grimmhaven
-date: 25-12-2024
+date: 2025-12-20
 tags:
 ---
 # Akt 1 - Willkommen in Grimmhaven
@@ -16,4 +16,4 @@ Nach einer ersten Erkundung durch den magischen Finanzbezirk [[Goldfurt]], bei d
 
 Geführt von [[Herr Hänsel]]'s Zwergischem Können durchquert die Gruppe den Tunnel und biegt links ab! Diese Entscheidung führt sie nach [[Sternthal]], ein raues und gesetzloses Kriminellenviertel in dem die [[Rotkappen]] herrschen. Nach anfänglichen Schwierigkeiten mit der örtlichen Bevölkerung hat man Freunde in der hiesigen Kneipe gemacht, als die Nachricht eines Bankraubs in der [[Aurumbörse]] eintrifft. Die Helden eilen zurück nach [[Goldfurt]] um die Trümmer des Chaos zu begutachten. Sie werden Zeugen der brutalen Umsetzung der [[Arthurischen Magieverbote]] und der Einkerkerung des Drachen [[Smaragdan]], und sehen wie [[Abraham DeWolff]] mit dem nun verbotenen [[Märchenspiegel]] untertaucht.
 
-Nach einer kurzen Nacht bei [[Hørgen]] spürt [[Komissar Pin]] sie auf und hilft ihnen in den Trümmern der [[Aurumbörse]] ins [[Aurumgewölbe]] zu gelangen. Hier bekämpfen sie einen [[Gnome Golem]] und befreien [[Isolde DeWolff]], die nach einem versuchten Einbruch in einem Käfig gefangen gehalten wurde. Die Helden erbeuten auch noch magische Waffen, einschliesslich [[Merlins Lehrlingsstab]] und entkommen mit Issy's Hilfe in Richtung [[Lichterhain]] zur [[Mondsilbersenke]].
+Nach einer kurzen Nacht bei [[Hørgen]] spürt [[Komissar Pin]] sie auf und hilft ihnen in den Trümmern der [[Aurumbörse]] ins [[Aurumbörse#Das Aurumgewölbe|Aurumgewölbe]] zu gelangen. Hier bekämpfen sie einen [[Gnome Golem]] und befreien [[Isolde DeWolff]], die nach einem versuchten Einbruch in einem Käfig gefangen gehalten wurde. Die Helden erbeuten auch noch magische Waffen, einschliesslich [[Merlins Lehrlingsstab]] und entkommen mit Issy's Hilfe in Richtung [[Lichterhain]] zur [[Mondsilbersenke]].

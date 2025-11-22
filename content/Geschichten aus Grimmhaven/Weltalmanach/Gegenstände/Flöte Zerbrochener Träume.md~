@@ -3,7 +3,8 @@ title: Flöte Zerbrochener Träume
 type: info
 draft: false
 world: Grimmhaven
-date: 2025-04-20
+date:
+  "{ date }":
 tags:
 ---
 

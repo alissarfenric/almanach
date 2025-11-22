@@ -3,7 +3,7 @@ title: Goldfurt
 type: info
 draft: false
 world: Grimmhaven
-date: 14-04-2025
+date: 2025-04-20
 tags:
 ---
 # Goldfurt - Das Goldenes Herz
@@ -20,3 +20,4 @@ Abends wird Goldfurt von unzähligen magischen Lampen erleuchtet, die ein sanfte
 * Der [[Aurumstrom]] - Ein magischer Fluss der durch [[Goldfurt]] fliesst.
 * Die [[Aurumbörse]] - Die Grosse Zentralbank und Auktionshaus in [[Goldfurt]]
 * Die [[Schneeflockenkapelle]] - Religiöses Zentrum der [[Kirche der Heiligen Holle]]
+* Das [[Tanz der Schatten]] Tanzstudio - Ein Ort der eleganter und kunstvoller Bewegungen
